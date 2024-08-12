@@ -1,0 +1,27 @@
+#content{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    min-height: 100vh;
+    /* height: 800px; */
+    background-color: #868686;
+}
+#login_box {
+    width: 260px;     
+    background-color: #868686;
+    /* border: 1px blue solid; */
+    border-radius: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    
+    box-shadow: -15px  -15px 15px rgba(255,255,255,0.1),
+                 15px   15px 15px rgba(0,0,0,0.05);
+}
+#btn {
+    box-shadow: -1px -1px 1px;
+    background-color: #cccccc;
+}
+#i,#p{
+    background-color:#cccccc;
+}
